@@ -1,0 +1,11 @@
+C:\Users\CoFFey\source\repos\СП9\СП9\bin\Debug\СП9.exe.config
+C:\Users\CoFFey\source\repos\СП9\СП9\bin\Debug\СП9.exe
+C:\Users\CoFFey\source\repos\СП9\СП9\bin\Debug\СП9.pdb
+C:\Users\CoFFey\source\repos\СП9\СП9\obj\Debug\СП9.csproj.AssemblyReference.cache
+C:\Users\CoFFey\source\repos\СП9\СП9\obj\Debug\СП9.csproj.SuggestedBindingRedirects.cache
+C:\Users\CoFFey\source\repos\СП9\СП9\obj\Debug\СП9.Form1.resources
+C:\Users\CoFFey\source\repos\СП9\СП9\obj\Debug\СП9.Properties.Resources.resources
+C:\Users\CoFFey\source\repos\СП9\СП9\obj\Debug\СП9.csproj.GenerateResource.cache
+C:\Users\CoFFey\source\repos\СП9\СП9\obj\Debug\СП9.csproj.CoreCompileInputs.cache
+C:\Users\CoFFey\source\repos\СП9\СП9\obj\Debug\СП9.exe
+C:\Users\CoFFey\source\repos\СП9\СП9\obj\Debug\СП9.pdb
